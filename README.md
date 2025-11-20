@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/35618188?v=4&size=64&&color=0e75b6&style=flat" alt="raikanxa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raikanxa" alt="raikanxa" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raikanxa" alt="raikanxa" /></a> </p> -->
 
 - 🔭 I’m currently working on [Tripturbo](tripturbo.com)
 

@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raikanxa" alt="raikanxa" /></a> </p> -->
 
-- 🔭 I’m currently working on [Tripturbo](tripturbo.com)
+- 🔭 I’m currently working on [Tripturbo](https://www.tripturbo.com)
 
 - 👨‍💻 All of my projects are available at [https://raikanxa.github.io/](https://raikanxa.github.io/)
 
